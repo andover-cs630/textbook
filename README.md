@@ -3,7 +3,7 @@
 ## Add your names below to test your pull request skills!
 
 Contributors:
-- Claire Wang
+- 
 - 
 - 
 
